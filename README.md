@@ -22,6 +22,12 @@ write with regular `if`/`else` statements.
 - [API](#api)
 
 ## Quick start
+Install using
+```bash
+npm i @zhnuggo/objex
+```
+
+and then include it in your code:
 
 ```js
 import { Actions } from '@zhnuggo/objex';
