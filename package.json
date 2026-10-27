@@ -1,6 +1,6 @@
 {
   "name": "@zhnuggo/objex",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Use objects to express control flow and more.",
   "homepage": "https://github.com/zhnuggo/objex",
   "bugs": {
@@ -16,7 +16,7 @@
     "access": "public"
   },
   "license": "AGPL-3.0",
-  "author": "zhnuggo",
+  "author": "zhnuggo <zhnuggo@outlook.com> (https://zhnuggo.com/)",
   "type": "module",
   "main": "index.js",
   "scripts": {
