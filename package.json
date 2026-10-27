@@ -1,6 +1,6 @@
 {
   "name": "@zhnuggo/objex",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Use objects to express control flow and more.",
   "homepage": "https://github.com/zhnuggo/objex",
   "bugs": {
