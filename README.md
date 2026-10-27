@@ -1,4 +1,4 @@
-# Actions
+# Objex
 
 
 ![Tests](https://img.shields.io/badge/tests-Mocha_+_Chai-saddlebrown?logo=mocha&logoColor=white&style=for-the-badge)
@@ -7,6 +7,8 @@
 ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen?style=for-the-badge)
 
 A library for Object Expressions.
+
+As of right now, there are only "action" object expressions.
 
 You define a list of actions, which can come with their own conditions and
 sub-actions, to define a more complicated control flow that might be awkward to
