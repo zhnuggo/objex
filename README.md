@@ -5,6 +5,7 @@
 ![Tests](https://img.shields.io/badge/passed-45_/_45-brightgreen?logo=testcafe&logoColor=white&style=for-the-badge)
 <br>
 ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen?style=for-the-badge)
+[![NPM version](https://img.shields.io/npm/v/@zhnuggo/objex.svg?style=for-the-badge)](https://www.npmjs.com/package/@zhnuggo/objex)
 
 A library for Object Expressions.
 
